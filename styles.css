@@ -7,7 +7,7 @@ body {
     text-align: center;
   }
   
-  p {
+  a {
     font-family: verdana;
     font-size: 20px;
     text-align: center;
@@ -18,6 +18,6 @@ body {
         text-align: center;
   }
   img{
-      margin-left: 30%;
+      margin-left: 31%;
     
   }
